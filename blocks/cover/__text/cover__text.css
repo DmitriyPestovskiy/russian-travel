@@ -1,6 +1,5 @@
 .cover__text{
     width: 100%;
-    width: calc(100% - 16px * 2);
     z-index: 1;
     grid-row: 1;
     grid-column: 1;
